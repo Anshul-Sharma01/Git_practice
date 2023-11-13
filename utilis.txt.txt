@@ -1,1 +1,1 @@
-this is the first version and this contains many bugs
+this is the second version and this contains many bugs,but some of the bugs are removed
